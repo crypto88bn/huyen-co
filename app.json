@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Huyen Co",
+    "slug": "huyen-co",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.huyenco.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "68faaeab-6274-4a94-8f90-74fb4f6d4bfe"
+      }
+    },
+    "owner": "crypto88"
+  }
+}
